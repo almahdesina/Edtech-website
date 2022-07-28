@@ -17,7 +17,7 @@ background-repeat: no-repeat;
     opacity: 100;
 }
 .carousel-caption{
-    bottom: 200px;
+    bottom: 150px;
     padding-left: 100px;
     padding-right: 100px;
 }
@@ -25,3 +25,5 @@ background-repeat: no-repeat;
     font-size: 50px;
     font-weight: 800px;
 }
+
+/* Courses Part */
